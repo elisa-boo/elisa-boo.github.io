@@ -1,0 +1,49 @@
+html{
+    height:100%;}
+
+    
+    
+    body{ 
+    height:100%;
+        margin:0px;
+    }
+
+
+h1 {
+    font: 40px;
+    font-size: 50px;
+    color: chocolate;
+    border: 2,5px solid coral;
+    float:left;
+    }
+    
+h2 {
+    font: 40px;
+    color:blueviolet;  
+    float: right;
+
+}
+h3 {
+    font-family: 39;
+    color: brown;
+    border: 2px solid black;
+    padding:3px;
+    float:left;
+    position: fixed;
+    bottom: 0;
+    margin-bottom:0; 
+}
+
+
+h4 {    
+    color:blue;
+    padding: 2px;
+    float: right;
+    position: fixed;
+    bottom: 0;
+    margin: bottom 0px;
+    right: 0;
+    
+
+}
+    
